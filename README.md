@@ -1,12 +1,13 @@
 # 👨🏽‍💻 Ayo Onajole – Cloud / DevOps Enthusiast  
 
 ## Skills acquired
-🌐 **Cloud:** ☁️ AWS (EC2, S3, IAM) | ☁️ Azure
+🌐 **Cloud:** ☁️ AWS (EC2, S3, IAM) | ☁️ Azure  
 🐳 **Containerization:** 🐋 Docker  
 🔧 **Infrastructure as Code:** 🧱 Terraform  
 🔁 **CI/CD:** ⚙️ GitHub Actions | 🧩 Jenkins  
 🐧 **Linux & Scripting:** 💻 Bash  
-💻 **Programming Languages:** 🐍 Python
+💻 **Programming Languages:** 🐍 Python 
+
 ---
   
 ## 📁 Projects  
