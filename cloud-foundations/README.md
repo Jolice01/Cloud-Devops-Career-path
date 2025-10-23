@@ -28,8 +28,8 @@ ssh -i ayo-key.pem EC2-user@<EC2-Public-IP>
 
 ### 4️⃣ Install Apache Web Server
 ```bash
-sudo apt update
-sudo apt install apache2 -y
+sudo yum update
+sudo yum install apache2 -y
 sudo systemctl start apache2
 sudo systemctl enable apache2
 ```
